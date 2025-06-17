@@ -6,6 +6,7 @@ A simple E-Commerce Platform built, and supports user authentication using Fireb
 ## Features ✨
 # ✅ User Authentication (Login, Signup, Log out )
 # ✅ Product Catalog with Categories & Filters
+# ✅ OnBoeading and Splash Screen 
 # ✅ Shopping Cart & Checkout
 # ✅ Responsive Design (Mobile, Tablet, Desktop)
 
