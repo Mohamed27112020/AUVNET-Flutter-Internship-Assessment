@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
               seedColor: AppColors.primaryColor,
             ),
           ),
-          home: LoginScreen(),
+          home: SplashScreen(),
         );
       },
     );
